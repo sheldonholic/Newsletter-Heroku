@@ -14,7 +14,7 @@ app.get("/", function (req, res) {
 });
 
 client.setConfig({
-    apiKey: "a83b5c037c09b27a51542c59cc7ed3cc0-us11",
+    apiKey: "83b5c037c09b27a51542c59cc7ed3cc0-us11",
     server: "us11",
 });
 
